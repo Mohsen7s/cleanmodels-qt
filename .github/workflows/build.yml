@@ -26,7 +26,7 @@ jobs:
             target: windows-shared
             zip_name: cleanmodels-qt.windows-shared.amd64
             executable: cleanmodels-qt.exe
-          - os: ubuntu-16.04
+          - os: ubuntu-latest
             target: linux-static
             zip_name: cleanmodels-qt.linux-static.amd64
             executable: cleanmodels-qt
